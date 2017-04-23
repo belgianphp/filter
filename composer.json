@@ -1,0 +1,16 @@
+{
+    "name": "belgian/filter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+    "require": { },
+    "autoload": {
+        "psr-4": {
+            "Belgian\\Filter\\": "Belgian/Filter/"
+        }
+    }
+}
