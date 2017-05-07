@@ -1,5 +1,5 @@
 # Belgian Filter
 
 ```
-$ composer require belgianphp/filter
+$ composer require belgian/filter
 ```
